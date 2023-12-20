@@ -4,8 +4,6 @@ Plot RAP Realtime or Archived Analysis Data.
 
 Current plots:
 
-Markup : * Bullet list
-
 * Synoptic 4 Panel Analysis (250/500/850mb and Surface)
 * 250 mb Heights/Winds
 * 500 mb Heights/Winds
